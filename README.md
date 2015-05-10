@@ -2,8 +2,13 @@ A study on understanding internet connectivity in developing regions. We concent
 
 Visualization tools:
 1. Otter - http://www.caida.org/tools/visualization/otter/
+
 2. Walrus - http://www.caida.org/tools/visualization/walrus/
+
 3. Circos - http://circos.ca/
+
 4. Google Maps API
 
 This project was motivated by the study by Gupta, Arpit, et al on ”Peering at the Internets frontier: A first look at ISP interconnectivity in Africa.” Passive and Active Measurement. Springer International Publishing, 2014.
+
+Project link: http://1-dot-xploringinternet.appspot.com/
