@@ -11,4 +11,4 @@ Visualization tools:
 
 This project was motivated by the study by Gupta, Arpit, et al on ”Peering at the Internets frontier: A first look at ISP interconnectivity in Africa.” Passive and Active Measurement. Springer International Publishing, 2014.
 
-Project link: http://1-dot-xploringinternet.appspot.com/
+Project report: https://drive.google.com/open?id=0ByFhB9siNkZzZVM5eTR2cHE5SGZRbC1ScWdoYnVZWGFXY1BV
